@@ -1,0 +1,160 @@
+Testcase 1: Passed
+Detected Berry Positions: {'Strawberry': [(0.3984375, -0.201171875, 0.6482648539543152)], 'Lemon': [], 'Blueberry': [(-0.251953125, 0.048828125, 0.5980522322654724), (-0.15234375, -0.251953125, 0.8494240927696228)]}
+Actual Berry Positions: {'Strawberry': [(0.4, -0.2, 0.65)], 'Lemon': [], 'Blueberry': [(-0.25, 0.05, 0.6), (-0.15, -0.25, 0.85)]}
+
+Testcase 2: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(-0.3515625, 0.298828125, 0.9497724461555481)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(-0.35, 0.3, 0.95)], 'Blueberry': []}
+
+Testcase 3: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(-0.451171875, -0.3515625, 0.8995212006568909)], 'Blueberry': [(-0.251953125, 0.447265625, 1.301723747253418), (0.1484375, 0.09765625, 0.3468731033802033)]}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(-0.45, -0.35, 0.9)], 'Blueberry': [(-0.25, 0.45, 1.3), (0.15, 0.1, 0.35)]}
+
+Testcase 4: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(-0.001953125, -0.15234375, 1.9549517917633057), (0.34765625, -0.201171875, 0.7990957188606262)], 'Blueberry': [(0.248046875, -0.40234375, 1.5026903438568116)]}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(0.35, -0.2, 0.8), (-0.0, -0.15, 1.95)], 'Blueberry': [(0.25, -0.4, 1.5)]}
+
+Testcase 5: Passed
+Detected Berry Positions: {'Strawberry': [(0.048828125, -0.3515625, 0.6985160994529724)], 'Lemon': [(0.34765625, 0.34765625, 0.6484574961662293), (0.248046875, 0.298828125, 0.3970471012592316), (-0.001953125, -0.001953125, 1.0001393246650696)], 'Blueberry': [(0.447265625, 0.447265625, 1.9048164176940918)]}
+Actual Berry Positions: {'Strawberry': [(0.05, -0.35, 0.7)], 'Lemon': [(0.25, 0.3, 0.4), (0.35, 0.35, 0.65), (-0.0, -0.0, 1.0)], 'Blueberry': [(0.45, 0.45, 1.9)]}
+
+Testcase 6: Passed
+Detected Berry Positions: {'Strawberry': [(0.197265625, 0.447265625, 1.8545649337768555)], 'Lemon': [(-0.251953125, -0.001953125, 1.2011443662643433)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.2, 0.45, 1.85)], 'Lemon': [(-0.25, -0.0, 1.2)], 'Blueberry': []}
+
+Testcase 7: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [], 'Blueberry': [(-0.40234375, -0.40234375, 1.4524776029586792)]}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [], 'Blueberry': [(-0.4, -0.4, 1.45)]}
+
+Testcase 8: Passed
+Detected Berry Positions: {'Strawberry': [(0.3984375, 0.3984375, 1.653328685760498)], 'Lemon': [], 'Blueberry': [(-0.1015625, 0.248046875, 0.3468344795703888)]}
+Actual Berry Positions: {'Strawberry': [(0.4, 0.4, 1.65)], 'Lemon': [], 'Blueberry': [(-0.1, 0.25, 0.35)]}
+
+Testcase 9: Passed
+Detected Berry Positions: {'Strawberry': [(-0.40234375, 0.34765625, 0.29669886708259585), (-0.052734375, -0.001953125, 1.0504675197601319), (0.248046875, -0.451171875, 1.1508158731460572)], 'Lemon': [(-0.15234375, 0.3984375, 1.0001393246650696), (0.1484375, -0.15234375, 1.5026518392562866)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(-0.4, 0.35, 0.3), (0.25, -0.45, 1.15), (-0.05, -0.0, 1.05)], 'Lemon': [(-0.15, 0.4, 1.0), (0.15, -0.15, 1.5)], 'Blueberry': []}
+
+Testcase 10: Passed
+Detected Berry Positions: {'Strawberry': [(-0.001953125, 0.09765625, 1.4524390983581543)], 'Lemon': [(-0.3515625, 0.048828125, 1.753792552947998)], 'Blueberry': [(0.34765625, -0.251953125, 0.9499265837669373)]}
+Actual Berry Positions: {'Strawberry': [(-0.0, 0.1, 1.45)], 'Lemon': [(-0.35, 0.05, 1.75)], 'Blueberry': [(0.35, -0.25, 0.95)]}
+
+Testcase 11: Passed
+Detected Berry Positions: {'Strawberry': [(0.1484375, 0.248046875, 1.552864580154419)], 'Lemon': [(-0.40234375, 0.34765625, 1.1007186460494995)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.15, 0.25, 1.55)], 'Lemon': [(-0.4, 0.35, 1.1)], 'Blueberry': []}
+
+Testcase 12: Passed
+Detected Berry Positions: {'Strawberry': [(0.1484375, 0.09765625, 1.3016467380523682)], 'Lemon': [], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.15, 0.1, 1.3)], 'Lemon': [], 'Blueberry': []}
+
+Testcase 13: Passed
+Detected Berry Positions: {'Strawberry': [(-0.40234375, -0.3515625, 1.1006417560577393)], 'Lemon': [], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(-0.4, -0.35, 1.1)], 'Lemon': [], 'Blueberry': []}
+
+Testcase 14: Passed
+Detected Berry Positions: {'Strawberry': [(-0.1015625, -0.001953125, 0.5980907368659973)], 'Lemon': [(-0.001953125, -0.1015625, 1.552864580154419), (0.197265625, -0.201171875, 0.7488829779624939), (0.1484375, -0.451171875, 1.753792552947998)], 'Blueberry': [(-0.201171875, -0.40234375, 0.5478394913673401)]}
+Actual Berry Positions: {'Strawberry': [(-0.1, -0.0, 0.6)], 'Lemon': [(0.2, -0.2, 0.75), (0.15, -0.45, 1.75), (-0.0, -0.1, 1.55)], 'Blueberry': [(-0.2, -0.4, 0.55)]}
+
+Testcase 15: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [], 'Blueberry': [(-0.40234375, -0.001953125, 0.7489217209815979), (0.248046875, -0.052734375, 0.8494625973701477)]}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [], 'Blueberry': [(0.25, -0.05, 0.85), (-0.4, -0.0, 0.75)]}
+
+Testcase 16: Passed
+Detected Berry Positions: {'Strawberry': [(-0.15234375, 0.248046875, 0.5479165005683899)], 'Lemon': [], 'Blueberry': [(-0.201171875, -0.451171875, 1.9547589111328125)]}
+Actual Berry Positions: {'Strawberry': [(-0.15, 0.25, 0.55)], 'Lemon': [], 'Blueberry': [(-0.2, -0.45, 1.95)]}
+
+Testcase 17: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(0.34765625, 0.248046875, 1.050429015159607)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(0.35, 0.25, 1.05)], 'Blueberry': []}
+
+Testcase 18: Passed
+Detected Berry Positions: {'Strawberry': [(-0.302734375, 0.34765625, 1.4525162267684937), (0.298828125, -0.201171875, 1.2009901094436646)], 'Lemon': [(0.34765625, 0.197265625, 1.1510083961486817), (-0.251953125, 0.048828125, 0.7990570950508118)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.3, -0.2, 1.2), (-0.3, 0.35, 1.45)], 'Lemon': [(0.35, 0.2, 1.15), (-0.25, 0.05, 0.8)], 'Blueberry': []}
+
+Testcase 19: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(0.048828125, -0.40234375, 1.0503518867492676)], 'Blueberry': [(-0.251953125, -0.451171875, 0.49754959225654605)]}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(0.05, -0.4, 1.05)], 'Blueberry': [(-0.25, -0.45, 0.5)]}
+
+Testcase 20: Passed
+Detected Berry Positions: {'Strawberry': [(0.197265625, 0.298828125, 0.6986317324638367), (-0.451171875, -0.201171875, 1.401995210647583)], 'Lemon': [], 'Blueberry': [(-0.251953125, -0.3515625, 1.1006031322479248)]}
+Actual Berry Positions: {'Strawberry': [(-0.45, -0.2, 1.4), (0.2, 0.3, 0.7)], 'Lemon': [], 'Blueberry': [(-0.25, -0.35, 1.1)]}
+
+Testcase 21: Passed
+Detected Berry Positions: {'Strawberry': [(0.298828125, 0.197265625, 1.2011443662643433)], 'Lemon': [], 'Blueberry': [(0.248046875, 0.34765625, 0.3469116079807282), (0.1484375, -0.15234375, 1.4021493482589722)]}
+Actual Berry Positions: {'Strawberry': [(0.3, 0.2, 1.2)], 'Lemon': [], 'Blueberry': [(0.25, 0.35, 0.35), (0.15, -0.15, 1.4)]}
+
+Testcase 22: Passed
+Detected Berry Positions: {'Strawberry': [(0.447265625, -0.40234375, 1.1510085153579712)], 'Lemon': [(-0.3515625, 0.197265625, 1.2514339971542359)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.45, -0.4, 1.15)], 'Lemon': [(-0.35, 0.2, 1.25)], 'Blueberry': []}
+
+Testcase 23: Passed
+Detected Berry Positions: {'Strawberry': [(-0.251953125, 0.447265625, 0.3469501125812531), (-0.001953125, 0.3984375, 0.2965832340717316)], 'Lemon': [(-0.052734375, 0.34765625, 0.49774235367774966)], 'Blueberry': [(0.09765625, 0.1484375, 0.547877995967865), (0.197265625, -0.1015625, 0.7489214825630188)]}
+Actual Berry Positions: {'Strawberry': [(-0.25, 0.45, 0.35), (-0.0, 0.4, 0.3)], 'Lemon': [(-0.05, 0.35, 0.5)], 'Blueberry': [(0.2, -0.1, 0.75), (0.1, 0.15, 0.55)]}
+
+Testcase 24: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(0.248046875, 0.048828125, 0.29654461026191714), (-0.3515625, -0.3515625, 0.34679609417915347)], 'Blueberry': [(0.1484375, -0.451171875, 0.5980137276649475)]}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(-0.35, -0.35, 0.35), (0.25, 0.05, 0.3)], 'Blueberry': [(0.15, -0.45, 0.6)]}
+
+Testcase 25: Passed
+Detected Berry Positions: {'Strawberry': [(-0.302734375, 0.3984375, 1.5026903438568116)], 'Lemon': [], 'Blueberry': [(-0.001953125, -0.251953125, 1.703656940460205)]}
+Actual Berry Positions: {'Strawberry': [(-0.3, 0.4, 1.5)], 'Lemon': [], 'Blueberry': [(-0.0, -0.25, 1.7)]}
+
+Testcase 26: Passed
+Detected Berry Positions: {'Strawberry': [(0.298828125, 0.3984375, 1.9045464086532593)], 'Lemon': [(-0.302734375, -0.40234375, 1.1510085153579712)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.3, 0.4, 1.9)], 'Lemon': [(-0.3, -0.4, 1.15)], 'Blueberry': []}
+
+Testcase 27: Passed
+Detected Berry Positions: {'Strawberry': [(0.447265625, 0.447265625, 1.0505445289611817)], 'Lemon': [], 'Blueberry': [(-0.15234375, -0.052734375, 1.5027673530578614)]}
+Actual Berry Positions: {'Strawberry': [(0.45, 0.45, 1.05)], 'Lemon': [], 'Blueberry': [(-0.15, -0.05, 1.5)]}
+
+Testcase 28: Passed
+Detected Berry Positions: {'Strawberry': [(0.1484375, -0.3515625, 1.552826075553894)], 'Lemon': [], 'Blueberry': [(0.298828125, -0.302734375, 1.5026518392562866)]}
+Actual Berry Positions: {'Strawberry': [(0.15, -0.35, 1.55)], 'Lemon': [], 'Blueberry': [(0.3, -0.3, 1.5)]}
+
+Testcase 29: Passed
+Detected Berry Positions: {'Strawberry': [(-0.052734375, -0.302734375, 1.0505445289611817)], 'Lemon': [(-0.302734375, -0.251953125, 0.799211232662201)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(-0.05, -0.3, 1.05)], 'Lemon': [(-0.3, -0.25, 0.8)], 'Blueberry': []}
+
+Testcase 30: Passed
+Detected Berry Positions: {'Strawberry': [(-0.15234375, -0.1015625, 0.6986318516731262)], 'Lemon': [], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(-0.15, -0.1, 0.7)], 'Lemon': [], 'Blueberry': []}
+
+Testcase 31: Passed
+Detected Berry Positions: {'Strawberry': [(0.298828125, -0.052734375, 1.4021494674682617)], 'Lemon': [(0.3984375, 0.34765625, 1.80415931224823), (-0.251953125, -0.15234375, 1.6534441995620728)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.3, -0.05, 1.4)], 'Lemon': [(0.4, 0.35, 1.8), (-0.25, -0.15, 1.65)], 'Blueberry': []}
+
+Testcase 32: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(-0.251953125, 0.09765625, 1.6534441995620728)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(-0.25, 0.1, 1.65)], 'Blueberry': []}
+
+Testcase 33: Passed
+Detected Berry Positions: {'Strawberry': [(-0.451171875, -0.1015625, 0.7990187096595764), (-0.15234375, -0.40234375, 0.44745260357856753)], 'Lemon': [], 'Blueberry': [(0.197265625, -0.302734375, 0.7490371155738831)]}
+Actual Berry Positions: {'Strawberry': [(-0.45, -0.1, 0.8), (-0.15, -0.4, 0.45)], 'Lemon': [], 'Blueberry': [(0.2, -0.3, 0.75)]}
+
+Testcase 34: Passed
+Detected Berry Positions: {'Strawberry': [(0.09765625, -0.302734375, 1.402264862060547)], 'Lemon': [], 'Blueberry': [(0.298828125, 0.048828125, 1.3014924812316895), (-0.1015625, -0.1015625, 1.9548361587524414)]}
+Actual Berry Positions: {'Strawberry': [(0.1, -0.3, 1.4)], 'Lemon': [], 'Blueberry': [(-0.1, -0.1, 1.95), (0.3, 0.05, 1.3)]}
+
+Testcase 35: Passed
+Detected Berry Positions: {'Strawberry': [(0.34765625, 0.09765625, 1.0002163338661194), (-0.3515625, -0.40234375, 0.7991343426704407)], 'Lemon': [], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(-0.35, -0.4, 0.8), (0.35, 0.1, 1.0)], 'Lemon': [], 'Blueberry': []}
+
+Testcase 36: Passed
+Detected Berry Positions: {'Strawberry': [(0.3984375, -0.451171875, 1.0000235724449158)], 'Lemon': [(-0.1015625, -0.251953125, 0.9498495745658875)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [(0.4, -0.45, 1.0)], 'Lemon': [(-0.1, -0.25, 0.95)], 'Blueberry': []}
+
+Testcase 37: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(-0.451171875, 0.197265625, 1.80415931224823)], 'Blueberry': [(0.1484375, 0.09765625, 0.9498881983757019), (-0.15234375, -0.40234375, 0.5479550051689148)]}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(-0.45, 0.2, 1.8)], 'Blueberry': [(0.15, 0.1, 0.95), (-0.15, -0.4, 0.55)]}
+
+Testcase 38: Passed
+Detected Berry Positions: {'Strawberry': [(0.34765625, 0.197265625, 0.5982448744773865), (-0.451171875, 0.048828125, 1.8542563009262085)], 'Lemon': [(-0.201171875, -0.201171875, 1.9547589111328125)], 'Blueberry': [(0.298828125, 0.34765625, 1.1006031322479248)]}
+Actual Berry Positions: {'Strawberry': [(-0.45, 0.05, 1.85), (0.35, 0.2, 0.6)], 'Lemon': [(-0.2, -0.2, 1.95)], 'Blueberry': [(0.3, 0.35, 1.1)]}
+
+Testcase 39: Passed
+Detected Berry Positions: {'Strawberry': [], 'Lemon': [(-0.40234375, 0.447265625, 1.4525162267684937)], 'Blueberry': []}
+Actual Berry Positions: {'Strawberry': [], 'Lemon': [(-0.4, 0.45, 1.45)], 'Blueberry': []}
+
+Testcase 40: Passed
+Detected Berry Positions: {'Strawberry': [(0.1484375, -0.001953125, 0.5478394913673401), (0.248046875, -0.1015625, 1.0503518867492676)], 'Lemon': [], 'Blueberry': [(-0.052734375, 0.34765625, 1.4525165843963623), (0.09765625, 0.1484375, 0.3468729841709137)]}
+Actual Berry Positions: {'Strawberry': [(0.25, -0.1, 1.05), (0.15, -0.0, 0.55)], 'Lemon': [], 'Blueberry': [(-0.05, 0.35, 1.45), (0.1, 0.15, 0.35)]}
+
